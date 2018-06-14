@@ -1,0 +1,26 @@
+{
+    "name": "jpcandioti/php-network-layer",
+    "type": "library",
+    "description": "This is PHP library for the management of IPv4 and IPv6 structs.",
+    "keywords": [
+        "net",
+        "network layer",
+        "network",
+        "ip",
+        "ipv4",
+        "ipv6",
+        "pool",
+        "subnet"
+        ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Juan Pablo Candioti"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+             "phpNetworkLayer\\": "phpNetworkLayer"
+        }
+    }
+}
